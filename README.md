@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Who am I?</h2>
+<h2 align="left">About me</h2>
 
 ###
 
