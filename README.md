@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Who am I?</h2>
 
 ###
 
-<p align="left">I’m a Back-End Developer with strong experience in building scalable and secure Desktop applications using C# and ASP.NET.<br>I also have experience working with SQL Server for database management, and a solid background in C++ with Qt Framework for developing cross-platform applications, but I use it especially for Linux.<br>I focus on writing clean, maintainable code and aim to improve performance and reliability in every system I work on.<br><br>Tech Stack:<br><br>    Languages: C#, C++, SQL and Bash Script<br><br>    Frameworks: ASP.NET, .NET Core, Qt, and ADO.NET<br><br>    Databases: SQL Server<br><br>    Tools: Visual Studio & vscode, neovim, Git, Docker, CMake and Postman<br><br>Currently Learning:<br><br>    Advanced features in .NET Core.<br><br>Goland.<br><br>    Cloud integration with Azure.<br><br>Contact:<br><br>    Email: haideralatbe@gmail.com</p>
+<p align="left">I’m a Back-End Developer with strong experience in building scalable and secure Desktop applications using C# and ASP.NET.<br>I also have experience working with SQL Server for database management, and a solid background in C++ with Qt Framework for developing cross-platform applications, but I use it especially for Linux.<br>I focus on writing clean, maintainable code and aim to improve performance and reliability in every system I work on.<br><br>Tech Stack:<br><br>    Languages: C#, C++, SQL and Bash Script<br><br>    Frameworks: ASP.NET, .NET Core, Qt, and ADO.NET<br><br>    Databases: SQL Server<br><br>    Tools: Visual Studio & VScode, Neovim, Git, Docker, CMake and Postman<br><br>Currently Learning:<br><br>    Advanced features in .NET Core.<br><br>Goland.<br><br>    Cloud integration with Azure.<br><br>Contact:<br><br>    Email: haideralatbe@gmail.com</p>
 
 ###
 
