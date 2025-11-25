@@ -1,60 +1,48 @@
 ## Hi, I'm Haider Bassem
 
-Back-End Engineer focused on building reliable, scalable systems.  
-I specialize in designing efficient back-end architectures and performance-oriented services.
+Back-End Engineer building scalable, production-grade systems.  
+I focus on performance, reliability, and architectural clarity.
 
-I work primarily with **Go** and **C++**, delivering production-grade systems with clean, maintainable design.
-
----
-
-## Expertise
-
-### Backend Engineering
-
-- Designing scalable service architectures
-- High-performance API development
-- System reliability & performance optimization
-- Caching strategies and data consistency
+I design systems that stay fast under load and remain maintainable long-term.
 
 ---
 
-### Languages & Ecosystem
+## Core Work
 
-- Go (production-level systems and services)
-- C++ (performance-critical components)
-- SQL (PostgreSQL)
-
----
-
-### Frameworks & Tools
-
-- Gin & Fiber (Go web frameworks)
-- pgx (PostgreSQL driver)
-- Redis (caching and pub/sub)
-- Docker
-- Git
-- Linux
+- Backend system architecture
+- High-throughput API design
+- Data consistency and caching strategies
+- Performance tuning at scale
 
 ---
 
-### Database & Storage
+## Stack
 
+- Go
+- C++
 - PostgreSQL
-- Query optimization & indexing
-- Connection pooling
-- Data modeling
 
 ---
 
-### Areas of Strength
+## Infrastructure & Tools
 
-- Backend system design
-- Distributed-ready architectures
-- Low-latency services
-- Clean code and long-term maintainability
+- Gin / Fiber
+- pgx
+- Redis
+- Docker
+- Linux
+- Git
 
 ---
 
-### Contact
+## Engineering Direction
+
+- Designing systems that scale cleanly
+- Eliminating unnecessary complexity
+- Building stable, predictable services
+
+---
+
+## Contact
 
 Email: haideralatbe@gmail.com
