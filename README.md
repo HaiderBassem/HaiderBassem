@@ -1,18 +1,17 @@
 ## Hi, I'm Haider Bassem
 
-Back-End Engineer building scalable, production-grade systems.  
-I focus on performance, reliability, and architectural clarity.
+Back-End Engineer focused on building scalable, high-performance systems.
 
-I design systems that stay fast under load and remain maintainable long-term.
+I design and ship production systems that handle real load, prioritize stability, and remain maintainable over time.
 
 ---
 
-## Core Work
+## What I Do
 
-- Backend system architecture
-- High-throughput API design
-- Data consistency and caching strategies
-- Performance tuning at scale
+- Architect backend systems
+- Build high-throughput APIs
+- Design cache-driven architectures
+- Optimize performance under load
 
 ---
 
@@ -24,7 +23,7 @@ I design systems that stay fast under load and remain maintainable long-term.
 
 ---
 
-## Infrastructure & Tools
+## Production Tools
 
 - Gin / Fiber
 - pgx
@@ -35,11 +34,12 @@ I design systems that stay fast under load and remain maintainable long-term.
 
 ---
 
-## Engineering Direction
+## Engineering Profile
 
-- Designing systems that scale cleanly
-- Eliminating unnecessary complexity
-- Building stable, predictable services
+- Systems-first mindset
+- Performance-oriented
+- Clean, predictable architectures
+- Low operational overhead designs
 
 ---
 
