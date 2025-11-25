@@ -1,49 +1,60 @@
-<h1 align="left">Welcome..</h1>
+## Hi, I'm Haider Bassem
 
-###
+Back-End Engineer focused on building reliable, scalable systems.  
+I specialize in designing efficient back-end architectures and performance-oriented services.
 
-<p align="left">My name is Haider Bassem</p>
+I work primarily with **Go** and **C++**, delivering production-grade systems with clean, maintainable design.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## Expertise
 
-###
+### Backend Engineering
 
-<p align="left">I’m a Back-End Developer with strong experience in building scalable and secure Desktop applications using C# and ASP.NET.<br>I also have experience working with SQL Server for database management, and a solid background in C++ with Qt Framework for developing cross-platform applications, but I use it especially for Linux.<br>I focus on writing clean, maintainable code and aim to improve performance and reliability in every system I work on.<br><br>Tech Stack:<br><br>    Languages: C#, C++, SQL and Bash Script<br><br>    Frameworks: ASP.NET, .NET Core, Qt, and ADO.NET<br><br>    Databases: SQL Server<br><br>    Tools: Visual Studio & VScode, Neovim, Git, Docker, CMake and Postman<br><br>Currently Learning:<br><br>    Advanced features in .NET Core.<br><br>Goland.<br><br>    Cloud integration with Azure.<br><br>Contact:<br><br>    Email: haideralatbe@gmail.com</p>
+- Designing scalable service architectures
+- High-performance API development
+- System reliability & performance optimization
+- Caching strategies and data consistency
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### Languages & Ecosystem
 
-###
+- Go (production-level systems and services)
+- C++ (performance-critical components)
+- SQL (PostgreSQL)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-</div>
+---
 
-###
+### Frameworks & Tools
+
+- Gin & Fiber (Go web frameworks)
+- pgx (PostgreSQL driver)
+- Redis (caching and pub/sub)
+- Docker
+- Git
+- Linux
+
+---
+
+### Database & Storage
+
+- PostgreSQL
+- Query optimization & indexing
+- Connection pooling
+- Data modeling
+
+---
+
+### Areas of Strength
+
+- Backend system design
+- Distributed-ready architectures
+- Low-latency services
+- Clean code and long-term maintainability
+
+---
+
+### Contact
+
+Email: haideralatbe@gmail.com
